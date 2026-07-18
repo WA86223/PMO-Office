@@ -7,3 +7,6 @@
 | 001 | Laptop | Available |
 | 002 | Projector | Available |
 | 003 | Server | In Use |
+
+## Latest Update
+- Added Project_Plan.txt to the repository.
